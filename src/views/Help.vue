@@ -9,10 +9,9 @@
 import Vue from "vue";
 
 export default Vue.extend({
-  name: "Home",
   data: () => ({
-    pageTitle: "ホーム",
-    message: "This is a home page"
+    pageTitle: "ヘルプ",
+    message: "This is a help page"
   })
 });
 </script>
